@@ -1,3 +1,33 @@
+
 h1{
-    color: red;
+    color: aqua;
+    font-size: 70px ;   
+    text-align: center;
+    margin-top:40px;
+    line-height: 30px;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+     text-align: center; 
+     color:yellow; 
+     text-size-adjust: 60px; 
+     padding-top: 60px;
+     margin-top: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    line-height: 80px;
+}
+body{
+    background-image: url(images/donation9.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 120% 120%;
+   
 }
